@@ -1,0 +1,18 @@
+print "Hello, world!";
+t = true;  // A comment
+f = false; //
+num1 = 5;
+num2 = 5;
+num1 = num1 + num2;
+num1 = num1/num2;
+
+var a = 0;
+while (a < 5) {
+  print a;
+}
+
+fun returnSum(a, b) {
+  return a + b;
+}
+
+returnSum(10,10);
