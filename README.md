@@ -1,4 +1,4 @@
-# Custom_Interpreter
+# Custom Language Interpreter
 [![made-with-Java](https://img.shields.io/badge/Made%20With-Java-blue?logo=appveyor&style=Java)](https://www.python.org/)
 ![made-with-Java](https://img.shields.io/appveyor/build/damirgafic/custom-interpreter)<br />
 This is a custom interpreter I made using Java that takes in raw source code as a series of characters and groups it into a series of chunks called tokens. 
